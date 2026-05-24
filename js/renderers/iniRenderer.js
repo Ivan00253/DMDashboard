@@ -1,5 +1,5 @@
 "use strict";
-import { parseHTML } from "./js/utils/parseHTML.js";
+import { parseHTML } from "./utils/parseHTML.js";
 
 let iniciativas = [];
 
