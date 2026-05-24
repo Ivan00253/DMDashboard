@@ -1,5 +1,5 @@
 "use strict";
-import { parseHTML } from "./utils/parseHTML.js";
+import { parseHTML } from "https://ivan00253.github.io/DMDashboard/js/utils/parseHTML.js";
 
 let criaturas = [];
 
