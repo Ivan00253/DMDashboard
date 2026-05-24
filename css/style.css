@@ -1,0 +1,15 @@
+body.dark {
+    background: linear-gradient(135deg, #0b1d4d, #ad0dad);
+    color: #eeeeee;
+}
+
+body::after {
+  content: "";
+  position: absolute;
+  inset: 0px;
+  background: linear-gradient(135deg, #1a2fff, #b300ff);
+  filter: blur(80px);
+  opacity: 0.4;
+  z-index: -1;
+}
+
