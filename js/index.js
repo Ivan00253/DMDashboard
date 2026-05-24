@@ -1,6 +1,6 @@
 "use strict";
-import { iniRenderer } from "./renderers/iniRenderer.js";
-import { crRenderer } from "./renderers/crRenderer.js";
+import { iniRenderer } from "https://ivan00253.github.io/DMDashboard/js/renderers/iniRenderer.js";
+import { crRenderer } from "https://ivan00253.github.io/DMDashboard/js/renderers/crRenderer.js";
 
 let crdiv = document.getElementById("stats");
 let inidiv = document.getElementById("iniciativa");
